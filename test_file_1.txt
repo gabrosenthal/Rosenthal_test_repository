@@ -2,3 +2,4 @@ Test text file number 1
 Addition #1 to test file
 Addition #2 to test file
 Addition#3 to test file for branch1-edits
+Addition #4 for branch1-edits
